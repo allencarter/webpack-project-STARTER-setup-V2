@@ -1,6 +1,11 @@
 
 # Webpack Project STARTER setup V2
 
+Start building your app with Webpack by downloading the webpack-project-STARTER-setup-V2 to save you from having to 
+configure the setup with webpack. Includes babel, babel-poly and SASS.
+
+Hope this helps!
+
 ## Install
 `npm install`
 
