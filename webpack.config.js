@@ -14,7 +14,7 @@ module.exports = {
     },
     plugins: [
       new HtmlWebpackPlugin({
-        title: 'Forkify Training App',
+        title: 'your-project-name-here',
         filename: 'index.html',
         template: './src/index.html'
       })
